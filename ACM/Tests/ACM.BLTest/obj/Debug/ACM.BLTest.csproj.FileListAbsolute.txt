@@ -1,0 +1,16 @@
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BL.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BL.pdb
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csprojAssemblyReference.cache
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CoreCompileInputs.cache
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.pdb

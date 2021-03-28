@@ -1,0 +1,6 @@
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
