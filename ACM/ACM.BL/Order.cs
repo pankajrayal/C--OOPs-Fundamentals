@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 namespace ACM.BL {
-    public class Order {
+    public class Order: EntityBase {
         public Order():this(0) {
         }
         public Order(int orderId) {
@@ -14,7 +14,8 @@ namespace ACM.BL {
         public int OrderId { get; set; }
         public List<OrderItem> OrderItems { get; set; }
         public int ShippingAddressId { get; set; }
-        public bool Validate() {
+        public override string ToString() => $"{OrderDate.Value.Date} ({OrderId})";
+        public override bool Validate() {
             var isValid = true;
             if (OrderDate == null) isValid = false;
             return isValid;

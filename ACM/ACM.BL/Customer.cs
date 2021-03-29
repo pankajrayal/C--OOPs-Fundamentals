@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 
 namespace ACM.BL {
-    public class Customer {
+    public class Customer: EntityBase {
         public Customer(): this(0) {
         }
         public Customer(int customerId) {
@@ -32,8 +32,8 @@ namespace ACM.BL {
                 return fullName;
             } 
         }
-
-        public bool Validate() {
+        public override string ToString() => FullName;
+        public override bool Validate() {
             var isValid = true;
             if (string.IsNullOrWhiteSpace(LastName)) isValid = false;
             if (string.IsNullOrWhiteSpace(EmailAddress)) isValid = false;
