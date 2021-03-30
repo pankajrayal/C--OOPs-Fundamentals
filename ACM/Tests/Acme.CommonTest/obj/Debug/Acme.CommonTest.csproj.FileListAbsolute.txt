@@ -14,3 +14,5 @@ C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\Acme.Commo
 C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CopyComplete
 C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
 C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\Acme.CommonTest\bin\Debug\ACM.BL.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\C#-OOPs-Fundamentals\ACM\Tests\Acme.CommonTest\bin\Debug\ACM.BL.pdb
